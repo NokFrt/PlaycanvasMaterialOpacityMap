@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "sourceMap": true,
+    "allowJs": true,
+    "noImplicitReturns": true,
+    "strictNullChecks": false,
+    "noImplicitAny": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "lib": ["dom", "es6", "dom.iterable", "scripthost"],   
+  }  
+}
